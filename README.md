@@ -36,7 +36,7 @@ An addictive web-based idle/clicker game where you build your Shawarma empire fr
 
 ## Technical Details
 
-This version (v2.0.0-alpha) is built with:
+This version (beta0.1) is built with:
 
 *   **Vanilla JavaScript (ES6+):** All game logic, state management, calculations, and DOM manipulation are handled without external JS frameworks.
 *   **HTML5:** Standard structure for the game content.
